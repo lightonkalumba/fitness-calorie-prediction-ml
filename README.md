@@ -135,22 +135,7 @@ prediction = model.predict(new_data)
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Kaggle: [@yourusername](https://www.kaggle.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- Dataset source: [Link to dataset]
-- Inspired by fitness tracking applications
-- Built with ❤️ for the data science community
 
 ## ⭐ Show Your Support
 
